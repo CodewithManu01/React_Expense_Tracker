@@ -69,3 +69,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # React_Expense_Tracker
+
+
+
+Home Page
+
+
+
+
+
+![Screenshot (257)](https://user-images.githubusercontent.com/104019020/186634403-aa9c9aa5-8c49-4b65-85d5-3a4b86bc85e4.png)
+
+
+
+
+
+
+
+
+
+
